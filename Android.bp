@@ -1,0 +1,11 @@
+android_app_import {
+    name: "Euphoriae",
+    owner: "ellenoireQ", 
+    apk: "apps/Euphoriae.apk",
+    privileged: false,
+    overrides: ["Music", "MusicFX"],
+    dex_preopt: {
+        enabled: false,
+    },
+    presigned: true,
+}
