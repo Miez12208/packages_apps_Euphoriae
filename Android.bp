@@ -8,4 +8,5 @@ android_app_import {
         enabled: false,
     },
     presigned: true,
+    preprocessed: true,
 }
